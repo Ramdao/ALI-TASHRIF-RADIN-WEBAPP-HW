@@ -1,0 +1,77 @@
+.logo{
+    height: 100px;
+    width: 180px;
+    float: left;
+}
+
+.menu{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+.profielinfo{
+    display: flex;
+    align-content: center;
+    position: absolute;
+    top:200px;
+    left: 10%;
+    width: 1530px;
+    height: 40px;
+    font-size: 25px;
+    padding-top: 10px;
+    
+}
+.picture{
+    height: 200px;
+    position: absolute;
+    top:300px;
+    left:180px;
+    
+}
+.boxstyle{
+    border-style: solid;
+    border-radius: 10px;
+    background-color:blanchedalmond;
+    justify-content: center;
+
+}
+.userinfo{
+    position: absolute;
+    top:320px;
+    left: 25%;
+    padding-left: 300px;
+    padding-right: 300px;
+    height: 120px;
+    font-size: 25px;
+    padding-top: 40px;
+    
+}
+.address{
+    display: flex;
+    align-content: center;
+    position:absolute;
+    top:600px;
+    left: 10%;
+    height: 700px;
+    width: 1530px;
+    height: 100px;
+    font-size: 25px;
+    padding-top: 50px;
+}
+.galary{
+    height: 500px;
+    position: absolute;
+    top:300px;
+    left:440px;
+    
+}
+
+
+.buttonedit{
+    background-color: blanchedalmond;
+    position: absolute;
+    left: 830px;
+    font-size: 30px;
+    top:335px;
+    border-radius: 10px;
+}
